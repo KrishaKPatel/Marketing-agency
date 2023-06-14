@@ -1,0 +1,7 @@
+krisha,abcd,01-11-2023,84843,Psychographic,Email marketing
+krisha,xyz,04-04-2024,78484,Demographic,Social Media
+krisha,nhxfbdj,01-01-2024,2342,Geographic location,Traditional Advertising
+krisha,nsbvjs,04-04-2024,7928,Demographic,Social Media
+krisha,kripa,08-12-2023,1104,Psychographic,Social Media
+kripa,xyz,04-11-2023,52662,Psychographic,Social Media
+kripa,abc,04-11-2023,21761,Demographic,Traditional Advertising

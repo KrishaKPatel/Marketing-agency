@@ -1,0 +1,8 @@
+Event1|Jane Doe,jane@example.com John Smith,john@example.com kishu patel,krisha114@example.com krisha patel,krisha@example.com 
+Event2|Alice Johnson,alice@example.com 
+Holi|Keysu,keysu112@gmail.com 
+XYZ|
+abcd|
+birthday|
+diwali|dhyey,dhye2311@yahoo.com 
+sports|
